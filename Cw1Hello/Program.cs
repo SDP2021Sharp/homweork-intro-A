@@ -11,6 +11,9 @@ namespace Cw1Hello
         static void Main(string[] args)
         {
             //Commmit1
+            Console.WriteLine("Pierwsza linijka - Krzysztof Czajkowski");
+            Console.WriteLine("Druga linijka - Krzysztof Czajkowski");
+            Console.WriteLine("Trzecia linijka - Krzysztof Czajkowski");
             //Commit2
             //Commit3
             //Commit4
