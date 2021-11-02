@@ -11,6 +11,7 @@ namespace Cw1Hello
         static void Main(string[] args)
         {
             //Commmit1
+            Console.WriteLine("Pierwsza linijka - Krzysztof Czajkowski");
         }
     }
 }
