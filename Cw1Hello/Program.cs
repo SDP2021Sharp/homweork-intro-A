@@ -11,6 +11,9 @@ namespace Cw1Hello
         static void Main(string[] args)
         {
             //Commmit1
+            //Commit2
+            //Commit3
+            //Commit4
             Console.WriteLine("Maciej");
             //Commit2
             Console.WriteLine("Palubicki");
