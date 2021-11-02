@@ -14,6 +14,11 @@ namespace Cw1Hello
             Console.WriteLine("Pierwsza linijka - Krzysztof Czajkowski");
             Console.WriteLine("Druga linijka - Krzysztof Czajkowski");
             Console.WriteLine("Trzecia linijka - Krzysztof Czajkowski");
+            Console.WriteLine("Maciej");
+            //Commit2
+            Console.WriteLine("Palubicki");
+            //Commit3 
+            Console.WriteLine("21");
         }
     }
 }
