@@ -14,6 +14,8 @@ namespace Cw1Hello
             Console.WriteLine("Maciej");
             //Commit2
             Console.WriteLine("Palubicki");
+            //Commit3 
+            Console.WriteLine("21");
         }
     }
 }
